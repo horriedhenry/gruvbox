@@ -1,3 +1,5 @@
+# Gruvbox Fork
+
 <div align="center">
       <h1> <img src="https://i.postimg.cc/WpQzgxVh/plugin-Icon.png" width="80px"><br/>gruvbox.nvim</h1>
      </div>
